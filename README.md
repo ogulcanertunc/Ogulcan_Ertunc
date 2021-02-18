@@ -8,7 +8,7 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/3oKIP9hfEsvPHxfIk0/giphy.gif" width="50"> 
-I'm n **Master Student🎓 [@UNICATT](https://www.unicatt.it/)** pursuing DS. I'm a **Data Enthusiast 💻 😃** passionate about learning and working with new tech.I love to do interesting and wonderful analysis that serves a great purpose. <br/><br/>
+I'm a **Master Student🎓 [@UNICATT](https://www.unicatt.it/)** pursuing DS. I'm a **Data Enthusiast 💻 😃** passionate about learning and working with new tech.I love to do interesting and wonderful analysis that serves a great purpose. <br/><br/>
 
 
 
@@ -88,7 +88,6 @@ I'm n **Master Student🎓 [@UNICATT](https://www.unicatt.it/)** pursuing DS. I'
 | School Email | ogulcan.ertunc01@icatt.it |
 | LinkedIn | https://www.linkedin.com/in/ogulcanertunc/ |
 | Medium Page | https://medium.com/ogi-on-ds | 
-
 
 
 
