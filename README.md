@@ -79,6 +79,17 @@ I'm an **Master Student🎓 [@UNICATT](https://www.unicatt.it/)** pursuing DS. I
 </p>
 </details>
 
+## Contact Me 
+<img width="350" height="200" src="https://media.giphy.com/media/SWVvc60hK5uDKEiIGL/giphy.gif" align=right>
+
+| Contact Method |  | 
+| --- | --- |
+| Professional Email | ertuncogulcan@gmail.com |
+| School Email | ogulcan.ertunc01@icatt.it |
+| LinkedIn | https://www.linkedin.com/in/ogulcanertunc/ |
+| Medium Page | https://medium.com/ogi-on-ds | 
+
+
 
 
 <!--
