@@ -19,7 +19,7 @@ I'm a **Master Student🎓 [@UNICATT](https://www.unicatt.it/)** pursuing DS. I'
 - 🌱 I am currently developing myself on data analysis. <img src="https://emojis.slackmojis.com/emojis/images/1516924249/3439/python_explode.gif?1516924249" width="30"> 
 <img width="350" height="350" src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" align=right>
 
-- <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="30">  I enjoy working on
+- <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="80">  I enjoy working on
   - 📊 Machine Learning & Data Science
   - 🛠  NLP
 - 📝 I write technical blogs and articles
