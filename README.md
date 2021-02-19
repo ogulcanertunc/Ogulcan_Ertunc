@@ -31,7 +31,8 @@ I'm a **Master Student🎓 [@UNICATT](https://www.unicatt.it/)** pursuing DS. I'
 
 
 <details>
-  <summary>Some more stuff 😄</summary>
+
+  <summary> <img src="https://media.giphy.com/media/1jXGsHY2EKdL27mEMd/giphy.gif" width="100"> Some more stuff 😄</summary>
   
 ### 🖥️ My Setup
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/pc_button_icon_151862.png"></code>
