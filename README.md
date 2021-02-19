@@ -7,7 +7,7 @@
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/ogulcan_ertunc01)](https://www.hackerrank.com/ogulcan_ertunc01)
 
 
-### A little about me...  <img src="https://media.giphy.com/media/3oKIP9hfEsvPHxfIk0/giphy.gif" width="50"> 
+### A little about me...  <img src="https://media.giphy.com/media/3oKIP9hfEsvPHxfIk0/giphy.gif" width="100"> 
 I'm a **Master Student🎓 [@UNICATT](https://www.unicatt.it/)** pursuing DS. I'm a **Data Enthusiast 💻 😃** passionate about learning and working with new tech.I love to do interesting and wonderful analysis that serves a great purpose. <br/><br/>
 
 
