@@ -69,7 +69,6 @@ I'm a **Master Student🎓 [@UNICATT](https://www.unicatt.it/)** pursuing DS. I'
 
 
 
-<details>
 <summary> 💥 Working on </summary>
 <br>
 <p align="center">
@@ -80,7 +79,6 @@ I'm a **Master Student🎓 [@UNICATT](https://www.unicatt.it/)** pursuing DS. I'
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ogulcanertunc&repo=Abstractive-Text-Summarization&show_owner=true" />
 </a>
 </p>
-</details>
 
 ## Contact Me 
 <img width="350" height="200" src="https://media.giphy.com/media/SWVvc60hK5uDKEiIGL/giphy.gif" align=right>
