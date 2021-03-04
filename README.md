@@ -27,7 +27,7 @@ I'm a **Master Student🎓 [@UNICATT](https://www.unicatt.it/)** pursuing DS. I'
 - 📝 I write technical blogs and articles
 - 🤔 I am looking for help with starting my first job
 - 💬 Ask me about Python, ML, NLP and statistics
-- 📙 Check out my [Resume](https://ogulcanertunc.github.io/CV/cv_.html) * At the design stage
+- 📙 Check out my [Resume](https://ogulcanertunc.github.io/CV/cv_.html)
 - 🎉 Fun-Fact: I ❤️ Renewable Energy Sources and Fountain Pens and watch a lot Movies🎬
 
 
