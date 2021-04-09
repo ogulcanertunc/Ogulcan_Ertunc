@@ -79,6 +79,15 @@ I'm a **Master Student🎓 [@UNICATT](https://www.unicatt.it/)** pursuing DS. I'
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ogulcanertunc&repo=Abstractive-Text-Summarization&show_owner=true" />
 </a>
 </p>
+<br>
+<p align="center">
+<a href="https://github.com/ogulcanertunc/NLP-Projects">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ogulcanertunc&repo=NLP-Projects&show_owner=true" />
+</a>&ensp;
+
+</a>
+</p>
+
 
 ## Contact Me 
 <img width="350" height="200" src="https://media.giphy.com/media/SWVvc60hK5uDKEiIGL/giphy.gif" align=right>
