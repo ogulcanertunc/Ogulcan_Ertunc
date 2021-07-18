@@ -5,7 +5,7 @@
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/ogulcanertunc/)](https://github.com/ogulcanertunc) 
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/ogulcan_ertunc01)](https://www.hackerrank.com/ogulcan_ertunc01)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ogulcanertunc/)](https://www.linkedin.com/in/ogulcanertunc/)
-[![Medium Badge](https://img.shields.io/badge/@ertuncogulcan-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@ertuncogulcan)](https://medium.com/@ertuncogulcan)
+[![Medium Badge](https://img.shields.io/badge/@ertuncogulcan-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@ertuncogulcan)](https://ertuncogulcan.medium.com/)
 
 
 
@@ -96,7 +96,7 @@ I'm a **Master Student🎓 [@UNICATT](https://www.unicatt.it/)** pursuing DS. I'
 | Professional Email | ertuncogulcan@gmail.com |
 | School Email | ogulcan.ertunc01@icatt.it |
 | LinkedIn | https://www.linkedin.com/in/ogulcanertunc/ |
-| Medium Page | https://medium.com/ogi-on-ds | 
+| Medium Page | https://ertuncogulcan.medium.com/ | 
 
 
 
