@@ -10,15 +10,15 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/3oKIP9hfEsvPHxfIk0/giphy.gif" width="100"> 
-I'm a **Master Student🎓 [@UNICATT](https://www.unicatt.it/)** pursuing DS. I'm a **Data Enthusiast 💻 😃** passionate about learning and working with new tech.I love to do interesting and wonderful analysis that serves a great purpose. <br/><br/>
+I'm an IT Consultant [@ADASTRA GERMANY](https://de.adastragrp.com/en/) and **graduated 🎓 from [@UNICATT](https://www.unicatt.it/)** pursuing DS. I'm a **Data Enthusiast 💻 😃** passionate about learning and working with new tech.I love to do interesting and wonderful analysis that serves a great purpose. <br/><br/>
 
 
 
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on NLP Project (Abstractive Text Summarization with GPT-2)
-- 🌱 I am currently developing myself on data analysis. <img src="https://emojis.slackmojis.com/emojis/images/1516924249/3439/python_explode.gif?1516924249" width="30"> 
+- 🔭 I’m currently working on eSQA project.
+- 🌱 I am trying to develop myself on data science. <img src="https://emojis.slackmojis.com/emojis/images/1516924249/3439/python_explode.gif?1516924249" width="30"> 
 <img width="350" height="350" src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" align=right>
 
 - <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="80">  I enjoy working on
@@ -64,7 +64,6 @@ I'm a **Master Student🎓 [@UNICATT](https://www.unicatt.it/)** pursuing DS. I'
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ogulcanertunc&show_icons=true&line_height=21" alt="ogulcanertunc's Github Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogulcanertunc&theme=default&line_height=27&layout=compact" />
 </p>
-
 
 
 
