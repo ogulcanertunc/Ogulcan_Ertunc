@@ -94,8 +94,8 @@ I'm an IT Consultant [@ADASTRA GERMANY](https://de.adastragrp.com/en/) and **gra
 
 | Contact Method |  | 
 | --- | --- |
-| Professional Email | ertuncogulcan@gmail.com |
-| School Email | ogulcan.ertunc01@icatt.it |
+| Professional Email | ertuncogulcan@outlook.com |
+| Work Email | ogulcan.ertunc@adastragrp.com |
 | LinkedIn | https://www.linkedin.com/in/ogulcanertunc/ |
 | Medium Page | https://ertuncogulcan.medium.com/ | 
 
